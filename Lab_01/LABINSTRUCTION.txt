@@ -1,0 +1,32 @@
+Lab_01 - Introduction
+
+1. Hello World - Intro.cpp
+Write a hello-world program in C++. Your program should take no inputs, and produce a single line of oputput, with the string "Hello World".
+
+2. Area of a Circle - AreaofCircle.cpp
+Create a program that asks for the radius of a circle and prints the area of that circle. (You can just use the '*' operator to square the radius)
+
+3. If-Else Statements - IfElse.cpp
+Write a program that reads in a positive integer and outputs "ODD" if the integer is odd and "EVEN" if the integer is even.
+
+4. While Loops - While.cpp
+Modify the program you wrote for the previous exercise so that it keeps reading positive integers and classifying them as ODD or EVEN until the user inputs -1. No classification should be produced for the -1.
+
+5. For Loops - ForLoop.cpp
+A common punishment for school children is to write out a line a given number of times. Create a program that takes in the sentence to be written out, and the number of times it needs to be repeated, and produce the desired output.
+
+6. Counting Words - CountingWords.cpp
+Create a program that opens a file named words.txt (download a sample here) and counts the whitespace-separated words in that file.
+
+7. Word Occurences - WordOccurences.cpp
+Create a program that reads in a word from the user and counts the number of occurrences of that word in a file called words.txt. (download a sample here)
+
+8. Run-Length encoding - RunLength.cpp
+Write a simple run-length encoder: you will read a sequence of pairs containing a character and a number. For each pair (C,N), output the character N times without spaces. When a pair has number -1 print a newline, if the number is -2 then stop.
+
+9. Finding Prime Numbers - Prime.cpp
+Write a program that reads in an integer N and prints out all the prime numbers strictly less than N. These should be printed one per line.
+
+10. String Manipulation - StringManipulation.cpp
+Write a program that keeps reading in strings of varied sizes. If an input string has length greater than one store it in a vector. When an input string has length one (a single character) you will output the string stored in your vector that has the first letter matching the input character. Keep doing this while you read string "quit".
+

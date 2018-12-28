@@ -1,0 +1,33 @@
+﻿  app_main.cpp
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(64): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(103): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(104): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(107): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(108): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(175): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(179): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(41): warning C4101: 'highBx1': unreferenced local variable
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(37): warning C4101: 'lowBy1': unreferenced local variable
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(42): warning C4101: 'highBy1': unreferenced local variable
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(47): warning C4101: 'Ry1': unreferenced local variable
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(36): warning C4101: 'lowBx1': unreferenced local variable
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(52): warning C4101: 'Oy1': unreferenced local variable
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(46): warning C4101: 'Rx1': unreferenced local variable
+c:\users\byron\downloads\opengltemplate\opengltemplate\app_main.cpp(51): warning C4101: 'Ox1': unreferenced local variable
+  glutapp.vcxproj -> C:\Users\Byron\Downloads\OpenGLTemplate\OpenGLTemplate\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)
